@@ -1,2 +1,2 @@
 im just wiks yk
-# js, c++, c#
+# ts, js, c++, c#
